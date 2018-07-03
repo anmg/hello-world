@@ -1,5 +1,2 @@
-# hello-world
-hello world
-Hi Humans:
+# Algorithm in python
 
-Anmg here, I like python.
